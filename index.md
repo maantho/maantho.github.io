@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hi I'm Anton Hörig
+# Hi, I'm Anton Hörig
 
 I became fascinated with the creative possibilities of code early on. During my bachelor's degree in Media Computer Science, I learned a lot about 3D rendering, graphics programming, and their use in artistic contexts from theater stages and museums to video games. This is knowledge I continue to build on and apply in personal projects and experiments.
 
