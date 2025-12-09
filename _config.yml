@@ -4,5 +4,16 @@ description: BSc in Media Computer Science. Passionate about GameDev & Computer 
 logo: /media/ProfilePictureLight.png
 color-scheme: auto
 
+sidebar:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/maantho
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://linkedin.com/in/anton-hoerig
+  - name: Email
+    icon: <i class="fa-solid fa-envelope"></i>
+    link: mailto:mail@antonhoerig.de
+
 plugins:
   - jekyll-remote-theme
