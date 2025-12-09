@@ -6,7 +6,7 @@ Key skills: Computer Graphics • C++ • OpenGL • Unity • Unreal • Godot 
 
 # Featured Projects
 
-## GPU Texture Painter
+## [GPU Texture Painter](https://github.com/maantho/gpu-texture-painter)
 
 <div style="display:flex; width:100%; gap:5px; flex-wrap:wrap;">
     <a href="https://github.com/maantho/gpu-texture-painter"><img src="media/TexPaint-Icon.png" height="150"></a>
@@ -21,7 +21,7 @@ With this technique quality and performance is improved significantly compared t
 
 Skills: 3D Rendering • Tool Programming • Godot
 
-## Multi-Projector Calibration & Projection Mapping
+## [Multi-Projector Calibration & Projection Mapping](https://github.com/maantho/InACTually-Engine)
 
 <div style="display:flex; width:100%; gap:5px; flex-wrap:wrap;">
     <a href="https://github.com/maantho/InACTually-Engine"><img src="media/ProjCalib-Outside.png" height="150"></a>
@@ -34,7 +34,7 @@ It was merged into InACTually.
 
 Skills: Computer Graphics • C++ • OpenGL • WebXR 
 
-## [Mini Jame Gam #36](https://itch.io/jam/mini-jame-gam-36)
+## [Entry to Mini Jame Gam #36](https://github.com/maantho/running-makes-thirsty)
 
 <div style="display:flex; width:100%; gap:5px; flex-wrap:wrap;">
     <a href="https://github.com/maantho/running-makes-thirsty"><img src="media/Jam-Cover.png" height="150"></a>
