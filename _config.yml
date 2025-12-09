@@ -1,4 +1,8 @@
-theme: jekyll-theme-minimal
-title: Portflolio of Anton Hörig
-description: BSc in Media Computer Science. Passionate about GameDev & Computer Graphics. \n https://itch.io/jam/mini-jame-gam-36
+remote_theme: BDHU/minimalist
+title: Portfolio of Anton Hörig
+description: BSc in Media Computer Science. Passionate about GameDev & Computer Graphics.
 logo: /media/ProfilePictureLight.png
+color-scheme: auto
+
+plugins:
+  - jekyll-remote-theme
