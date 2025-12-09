@@ -5,15 +5,15 @@ logo: /media/ProfilePictureLight.png
 color-scheme: auto
 
 sidebar:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/maantho
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://linkedin.com/in/anton-hoerig
   - name: Email
     icon: <i class="fa-solid fa-envelope"></i>
     link: mailto:mail@antonhoerig.de
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://linkedin.com/in/anton-hoerig
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/maantho
 
 plugins:
   - jekyll-remote-theme
