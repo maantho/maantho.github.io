@@ -18,6 +18,8 @@ Key skills: Computer Graphics • C++ • OpenGL • Unity • Unreal • Godot 
     <a href="https://github.com/maantho/gpu-texture-painter"><img src="media/TexPaint-UV.png" height="150"></a>
 </div>
 
+<br/>
+
 A plugin for the Godot-Engine, that allows runtime, scene-wide texture painting on the GPU. 
 Achieves an accurate brush/spray effect by painting individual atlas texels. 
 Those coordinates are gathered by rendering the scene in a second pass to an offline framebuffer with the UV coordinates as the color. The actual coloring of the atlas is handled by a custom compute shader.
@@ -36,6 +38,8 @@ Skills: 3D Rendering • GLSL • Tool Programming • Godot
     <a href="https://github.com/maantho/InACTually-Engine"><img src="media/ProjCalib-Result.png" height="150"></a>
 </div>
 
+<br/>
+
 Bachelors thesis with the goal to find a projector calibration method, that can be used for dynamic spatial projection mapping in a wide variety of artistic contexts. Out of existing methods a novel multi-projector calibration method was developed to support projection-mapping onto arbitrary dynamic surfaces. This is achieved in a user-friendly way, utilizing a mixed reality headset. It mitigates restriction on the surface and calibration targets, that are common with other projector calibration methods, while being low-cost and adoptable for artists.
 It was merged into InACTually.
 
@@ -50,6 +54,8 @@ Skills: Computer Graphics • C++ • OpenGL • WebXR
     <a href="https://github.com/maantho/running-makes-thirsty"><img src="media/Jam-Cover.png" height="150"></a>
     <a href="https://github.com/maantho/running-makes-thirsty"><img src="media/Jam-Gameplay.gif" height="150"></a>
 </div>
+
+<br/>
 
 The theme was "Speedrun" and the special object "Bag". It features a fun mechanic, where the player has to produce enough water to hydrate a marathon runner and chase the highscore by picking and combining fruits, kitchen tools and bottles from the environment.
 
