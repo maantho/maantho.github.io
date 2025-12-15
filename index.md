@@ -23,7 +23,10 @@ Achieves an accurate brush/spray effect by painting individual atlas texels.
 Those coordinates are gathered by rendering the scene in a second pass to an offline framebuffer with the UV coordinates as the color. The actual coloring of the atlas is handled by a custom compute shader.
 With this technique quality and performance is improved significantly compared to methods utilizing the physics engine.
 
-Skills: 3D Rendering • Tool Programming • Godot
+### My Contribution
+I extended Godot's rendering pipeline by using offline framebuffers as data containers and writing compute shaders in GLSL. Creating a tool that uses advanced rendering features while having the usability for artists in mind.
+
+Skills: 3D Rendering • GLSL • Tool Programming • Godot
 
 ## [Multi-Projector Calibration & Projection Mapping](https://github.com/maantho/InACTually-Engine)
 
@@ -33,8 +36,11 @@ Skills: 3D Rendering • Tool Programming • Godot
     <a href="https://github.com/maantho/InACTually-Engine"><img src="media/ProjCalib-Result.png" height="150"></a>
 </div>
 
-Bachelors thesis with the goal to find a projector calibration method, that can be used for dynamic spatial projection mapping in a wide variety of artistic contexts. Out of existing methods a novel multi-projector calibration method was developed to support projection-mapping onto arbitrary dynamic surfaces. This is achieved in a user-friendly way, utilizing a mixed reality headset. It mitigates restriction on the surface and calibration targets, that are common with other projector calibration methods.
+Bachelors thesis with the goal to find a projector calibration method, that can be used for dynamic spatial projection mapping in a wide variety of artistic contexts. Out of existing methods a novel multi-projector calibration method was developed to support projection-mapping onto arbitrary dynamic surfaces. This is achieved in a user-friendly way, utilizing a mixed reality headset. It mitigates restriction on the surface and calibration targets, that are common with other projector calibration methods, while being low-cost and adoptable for artists.
 It was merged into InACTually.
+
+### My Contribution
+I added a specific feature (projector calibration) to an existing project with a large code-base. I utilized my knowledge in linear algebra to calibrate multiple projectors intrinsically and extrinsically in a novel way. I designed it to be accessible to a wide variety of artists. For rendering I used the OpenGL graphics API.
 
 Skills: Computer Graphics • C++ • OpenGL • WebXR 
 
@@ -46,5 +52,8 @@ Skills: Computer Graphics • C++ • OpenGL • WebXR
 </div>
 
 The theme was "Speedrun" and the special object "Bag". It features a fun mechanic, where the player has to produce enough water to hydrate a marathon runner and chase the highscore by picking and combining fruits, kitchen tools and bottles from the environment.
+
+### My Contribution
+I created the art of the game utilizing vector graphics. I designed the game mechanic and implemented it in Godot. The mechanic features the interaction / free combination of different entities with each other. The implementation of the mechanic is abstract and easily extendable to different fruits, food processors and status effects.
 
 Skills: rapid prototyping • problem solving • Godot
