@@ -10,7 +10,7 @@ Key skills: Computer Graphics • C++ • OpenGL • Unity • Unreal • Godot 
 
 # Featured Projects
 
-## [GPU Texture Painter](https://github.com/maantho/gpu-texture-painter)
+## [Tool: GPU Texture Painter](https://github.com/maantho/gpu-texture-painter)
 
 <div style="display:flex; width:100%; gap:5px; flex-wrap:wrap;">
     <a href="https://github.com/maantho/gpu-texture-painter"><img src="media/TexPaint-Icon.png" height="150"></a>
