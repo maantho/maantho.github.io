@@ -33,9 +33,9 @@ Skills: 3D Rendering • GLSL • Tool Programming • Godot
 ## [Multi-Projector Calibration & Projection Mapping](https://github.com/maantho/InACTually-Engine)
 
 <div style="display:flex; width:100%; gap:5px; flex-wrap:wrap;">
+    <a href="https://github.com/maantho/InACTually-Engine"><video src="media/ProjCalib-Combined-small.webm" height="150" autoplay loop muted playsinline></video></a>
     <a href="https://github.com/maantho/InACTually-Engine"><img src="media/ProjCalib-Outside.png" height="150"></a>
     <a href="https://github.com/maantho/InACTually-Engine"><img src="media/ProjCalib-Inside.png" height="150"></a>
-    <a href="https://github.com/maantho/InACTually-Engine"><img src="media/ProjCalib-Result.png" height="150"></a>
 </div>
 
 <br/>
