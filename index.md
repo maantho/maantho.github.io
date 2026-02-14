@@ -44,6 +44,21 @@ I added a specific feature (projector calibration) to an existing project with a
 
 Skills: Computer Graphics • C++ • OpenGL • WebXR 
 
+## [CG Playground](https://github.com/maantho/cg-playground)
+
+<div style="display:flex; width:100%; gap:5px; flex-wrap:wrap;">
+    <a href="https://github.com/maantho/cg-playground"><img src="media/CGPlayground-Lights.png" height="150"></a>
+    <a href="https://github.com/maantho/cg-playground"><img src="media/CGPlayground-Renderer.png" height="150"></a>
+</div>
+
+An OpenGL renderer written in C++ designed for experimenting with and learning about rendering techniques. Rendering pipelines are polymorphic and can be swapped out at runtime for better comparison. It currently supports forward and deferred rendering, physically based rendering (PBR) with model loading, debug visualizations, a GUI and a profiler. It has an open architecture and can be extended with advanced rendering techniques.
+
+### My Contribution
+
+I implemented common rendering techniques in an extendable structure. I used modern C++ and paradigms such as RAII. I deepened my understanding of graphics APIs and shaders. 
+
+Skills: real-time rendering • C++ • OpenGL • GLSL
+
 ## [Entry to Mini Jame Gam #36](https://github.com/maantho/running-makes-thirsty)
 
 <div style="display:flex; width:100%; gap:5px; flex-wrap:wrap;">
